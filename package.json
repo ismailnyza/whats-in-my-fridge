@@ -1,0 +1,14 @@
+{
+  "name": "smart-recipie-app",
+  "version": "0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Ismail Nyzar",
+  "description": "A smart recipe app that helps you find recipes based on the ingredients you have at home.",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
